@@ -13,8 +13,8 @@
         <img src="https://www.shell.com.br/etc.clientlibs/settings/wcm/designs/shell-rio/clientlibs/themes/theme-shell/resources/logo/logo.svg" alt="">
     </div>
     <div class="flag-price">
-        <span id="price-combustivel">Álcool preço/litro: R$3,16</span>
-        <span id="price-combustivel">Gasolina preço/litro: R$4,19</span>
+        <span id="price-combustivel">Álcool preço/litro: R$2,16</span>
+        <span id="price-combustivel">Gasolina preço/litro: R$3,19</span>
     </div>
 <script src="./script.js"></script>
 </body>
